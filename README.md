@@ -1,4 +1,4 @@
-### Oii, me chamo Thais Oliveira e sou estudante de programação e de tecnologia!
+### Oii, me chamo Thais Oliveira e sou estudante de programação!
 
 - Sou técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) e sou vestibulanda de Ciências da Computação da Universidade Federal de Campina Grande (UFCG)!
 
